@@ -1,0 +1,221 @@
+﻿<repository
+id="b116b7df-f97f-4214-bdbd-62b066d06382"
+name="CaltermTest_SandBoxRepository">
+	<codegen
+	classname="CaltermTest_SandBoxRepository"
+	namespace="CaltermTest_SandBox">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="8d75dddd-bbae-48fd-a725-a61287b34cc2"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="d2ea8359-b9fd-446c-9777-62e9cbab1f36"
+		isrooted="True"
+		name="ModuleSelection"
+		refpath="/form[@controlname='ModuleSelection']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="3ccfe7df-ac2d-453b-a595-3f1368922c7f"
+			name="Manual"
+			refimgid="1b6af79b-7b77-4be3-bc94-f27dbcdbffed"
+			refpath="/form[@controlname='ModuleSelection']/button[@controlname='manual']"
+			searchtimeout="30000ms">
+				/form[@controlname='ModuleSelection']/button[@controlname='manual']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="2cd320e4-0ca4-4abb-9b53-4f164c6ec9d1"
+			name="ButtonCancel"
+			refimgid="e944c49b-6ec2-4009-86d2-8404e862ce26"
+			refpath="/form[@controlname='ModuleSelection']/button[@controlname='ButtonCancel']"
+			searchtimeout="30000ms">
+				/form[@controlname='ModuleSelection']/button[@controlname='ButtonCancel']
+			</item>
+			<item
+			addcaps="cell,accessible"
+			capname="cell"
+			id="31480983-f32f-4d11-a031-b9b19bbc99dc"
+			name="ConfigFileRow0"
+			refimgid="37d26d8d-d538-4b9f-941c-6f0ead2ea944"
+			refpath="/form[@controlname='ModuleSelection']/tabpagelist/tabpage[@controlname='productsTabPage']/container/container[@controlname='ConfigFileSelection']/container/table/row[@accessiblename='Row 0']/cell[@accessiblename='Config File Row 0']"
+			searchtimeout="30000ms">
+				/form[@controlname='ModuleSelection']/tabpagelist[@controlname='productTabControl']/tabpage[@controlname='productsTabPage']//table[@controlname='configFileDataGridView']/?/?/cell[@accessiblename='Config File Row 0']
+			</item>
+			<basepath>
+				/form[@controlname='ModuleSelection']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAACnSURBVDhPtZLBDYMwDEW7UxZhCqbogTXYiUly
+4s7Bzcd2m8QfEKp40hcoiV+cwEtSkn/ykOA9CWUcNcDWRgFjnrVwGCTnrGO2vhUwvBjPml7wNTvL
+oovKrrKtNljRCxpwBxBg16MEQSnYu6jP6nMnUQHaLIV7Ed6dbjHLrwNvrQbHgJAlCO4SBLDeIQiQ
+oz+QQQWW8E8w8LXKhlTQpL88j81fC06T5APa8f5oYbkWTQAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="3fc52fe8-2043-44d8-b39a-5d913947e6d7"
+		isrooted="True"
+		name="ManualConnect"
+		refpath="/form[@controlname='ManualConnect']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="3fccc5aa-f9ec-4967-9594-03365a3a2b9a"
+			name="BrowseForConfigFile"
+			refimgid="65ada5d2-3d41-4f1b-aa57-52631187ed1a"
+			refpath="/form[@controlname='ManualConnect']/container/button[@controlname='browseForConfigFile']"
+			searchtimeout="30000ms">
+				/form[@controlname='ManualConnect']/?/?/button[@controlname='browseForConfigFile']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="5c9711ab-f793-4fc8-9047-4da12dcad4f5"
+			name="ButtonOk"
+			refimgid="5bfa2377-f636-42d3-884b-16111d385899"
+			refpath="/form[@controlname='ManualConnect']/container/button[@controlname='ok']"
+			searchtimeout="30000ms">
+				/form[@controlname='ManualConnect']/?/?/button[@controlname='ok']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="2bbb0e3d-bca1-4c7b-b95d-3b998844e58e"
+			name="Cancel"
+			refimgid="87afe586-f338-458a-99c4-ba8a00a28ad9"
+			refpath="/form[@controlname='ManualConnect']/container/button[@controlname='cancel']"
+			searchtimeout="30000ms">
+				/form[@controlname='ManualConnect']/?/?/button[@controlname='cancel']
+			</item>
+			<basepath>
+				/form[@controlname='ManualConnect']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAACnSURBVDhPtZLBDYMwDEW7UxZhCqbogTXYiUly
+4s7Bzcd2m8QfEKp40hcoiV+cwEtSkn/ykOA9CWUcNcDWRgFjnrVwGCTnrGO2vhUwvBjPml7wNTvL
+oovKrrKtNljRCxpwBxBg16MEQSnYu6jP6nMnUQHaLIV7Ed6dbjHLrwNvrQbHgJAlCO4SBLDeIQiQ
+oz+QQQWW8E8w8LXKhlTQpL88j81fC06T5APa8f5oYbkWTQAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="bf5be973-be0c-4d57-8764-d898efcdd467"
+		isrooted="True"
+		name="MsgBox"
+		refpath="/form[@controlname='MsgBox']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="3d540c60-6569-47ab-ad05-4ac24d93d08c"
+			name="Close"
+			refimgid="3573f704-bc9b-47c8-8448-4d658205e130"
+			refpath="/form[@controlname='MsgBox']/titlebar/button[@accessiblename='Close']"
+			searchtimeout="30000ms">
+				/form[@controlname='MsgBox']/?/?/button[@accessiblename='Close']
+			</item>
+			<basepath>
+				/form[@controlname='MsgBox']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAACnSURBVDhPtZLBDYMwDEW7UxZhCqbogTXYiUly
+4s7Bzcd2m8QfEKp40hcoiV+cwEtSkn/ykOA9CWUcNcDWRgFjnrVwGCTnrGO2vhUwvBjPml7wNTvL
+oovKrrKtNljRCxpwBxBg16MEQSnYu6jP6nMnUQHaLIV7Ed6dbjHLrwNvrQbHgJAlCO4SBLDeIQiQ
+oz+QQQWW8E8w8LXKhlTQpL88j81fC06T5APa8f5oYbkWTQAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="c68f64ec-fbed-4af6-9673-938139fadff4"
+		isrooted="True"
+		name="ApplicationForm"
+		refpath="/form[@controlname='ApplicationForm']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="e890c5c5-49e4-4411-8959-1972ec979b7a"
+			name="Close"
+			refimgid="29bcf629-2a2f-42e6-b456-694c33a3ea9a"
+			refpath="/form[@controlname='ApplicationForm']/titlebar/button[@accessiblename='Close']"
+			searchtimeout="30000ms">
+				/form[@controlname='ApplicationForm']/?/?/button[@accessiblename='Close']
+			</item>
+			<basepath>
+				/form[@controlname='ApplicationForm']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAACnSURBVDhPtZLBDYMwDEW7UxZhCqbogTXYiUly
+4s7Bzcd2m8QfEKp40hcoiV+cwEtSkn/ykOA9CWUcNcDWRgFjnrVwGCTnrGO2vhUwvBjPml7wNTvL
+oovKrrKtNljRCxpwBxBg16MEQSnYu6jP6nMnUQHaLIV7Ed6dbjHLrwNvrQbHgJAlCO4SBLDeIQiQ
+oz+QQQWW8E8w8LXKhlTQpL88j81fC06T5APa8f5oYbkWTQAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="63eaf653-3f9a-4e46-873a-0930471074ff"
+		isrooted="True"
+		name="Open"
+		refpath="/form[@title='Open']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,uiautomation,uiautomationvalue"
+			capname="text"
+			id="889b0642-273f-4de8-abf1-7d1de52a785c"
+			name="SystemItemNameDisplay"
+			refimgid="c3cc8eac-c163-4d2c-9825-2b393ec26bbd"
+			refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/listitem[@automationid='0']/text[@automationid='System.ItemNameDisplay']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']/?/?/listitem[@automationid='0']/text[@automationid='System.ItemNameDisplay']
+			</item>
+			<item
+			addcaps="button,nativewindow"
+			capname="button"
+			id="1e44aeda-9e35-486d-9954-2ac295555d49"
+			name="ButtonOpen"
+			refimgid="f582fd22-b9b8-4037-a566-5833b6b0ff58"
+			refpath="/form[@title='Open']/button[@text='&amp;Open']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/button[@text='&amp;Open']
+			</item>
+			<basepath>
+				/form[@title='Open']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADNSURBVDhPpZLBEYMwDATpiUZcBVXkkTboiWL4
+56F4bR3IxpOQiWZuSCzd+gyebJ7tHw0AU32mZLYsrbSOfL4DZDOD22b22q0UT8SaemgIWNdqiiWj
+zFprAXnnT2Z6MlNXQJYiUwxgirvGugAeT+/koqldFb3X5SUCwCizfpcvMlI1nwCIQARSkjI0AqAI
+iLvG4j9H6cVGDQDFl/itjnQHIEcixd0qgHqMMwELRLuTBIBf6QBwCA3OyZCucS96/kk7gEM83h1N
+8VL8rJTsDdzr/dQ1OHH1AAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

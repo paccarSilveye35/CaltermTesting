@@ -1,0 +1,16 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{0E9CB152-E19F-4477-BFAF-87615ABCB5B2}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution CaltermTest_SandBox[Solution Items[]CaltermTest_SandBox[CaltermTest_SandBoxRepository.rxrep[]]]]&#xD;&#xA;Solution CaltermTest_SandBox\CaltermTest_SandBox\UserAction.cs&#xD;&#xA;Solution CaltermTest_SandBox" />
+  <StartupProject value="{0E9CB152-E19F-4477-BFAF-87615ABCB5B2}" />
+</Properties>

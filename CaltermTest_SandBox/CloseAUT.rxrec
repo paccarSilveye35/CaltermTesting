@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="f045104b-cb2c-4bcd-ac7f-fbda392b8e6e"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseAUT"
+	namespace="CaltermTest_SandBox">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="a69653fe-1866-44e0-b769-d0e065b318f2">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="e890c5c5-49e4-4411-8959-1972ec979b7a"
+			sourcename="ItemRecorderEditor">
+				<path>
+					/form[@controlname='ApplicationForm']/?/?/button[@accessiblename='Close']
+				</path>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="b116b7df-f97f-4214-bdbd-62b066d06382"
+	name="CaltermTest_SandBoxRepository"
+	relativepath="CaltermTest_SandBoxRepository.rxrep">
+		<codegen
+		classname="CaltermTest_SandBoxRepository"
+		namespace="CaltermTest_SandBox">
+		</codegen>
+		<rootfolder
+		id="8d75dddd-bbae-48fd-a725-a61287b34cc2"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

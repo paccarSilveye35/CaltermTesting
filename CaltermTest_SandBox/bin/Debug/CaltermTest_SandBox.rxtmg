@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="CaltermTest_SandBox"
+      id="5bfc67a4-5c80-48cc-a774-48ec01afb675"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="CaltermTest_SandBox"
+      id="5bfc67a4-5c80-48cc-a774-48ec01afb675"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

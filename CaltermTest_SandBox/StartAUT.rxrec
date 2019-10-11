@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="d0356ce0-d64a-43e7-b2be-295e243e9a7c"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="CaltermTest_SandBox">
+	</codegen>
+	<variables>
+		<var
+		id="0e8a4db6-fdc6-4a5e-bb81-c13b5ccf0736"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Calterm III\Calterm.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="b116b7df-f97f-4214-bdbd-62b066d06382"
+	name="CaltermTest_SandBoxRepository"
+	relativepath="CaltermTest_SandBoxRepository.rxrep">
+		<codegen
+		classname="CaltermTest_SandBoxRepository"
+		namespace="CaltermTest_SandBox">
+		</codegen>
+		<rootfolder
+		id="8d75dddd-bbae-48fd-a725-a61287b34cc2"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

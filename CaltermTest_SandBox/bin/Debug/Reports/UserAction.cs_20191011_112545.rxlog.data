@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="4.38s"
+		durationms="4381"
+		type="root"
+		rid="3f2d6d3a7bb191"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="edgar.silveyra"
+		rxversion="9.1.2.0"
+		host="PTCMTVLPPES681"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="3840x1083"
+		timestamp="10/11/2019 11:25:48 AM"
+		timestampiso="2019-10-11T18:25:48"
+		endtime="10/11/2019 11:25:59 AM"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.381"
+			timeRelativeToTestModuleStartTime="00:04.381"
+			timeWallClock="11:25:52"
+			time="00:04.381"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.412"
+			timeRelativeToTestModuleStartTime="00:11.412"
+			timeWallClock="11:25:59"
+			time="00:11.412"
+			level="Failure"
+			category="Module"
+			errimg="images_UserActi_946d8641\UserActi_946d8641_cb4b4a79_trace.jpg"
+			errthumb="images_UserActi_946d8641\UserActi_946d8641_cb4b4a79_trace_thumb.jpg">
+			<message>
+				Thread was being aborted.
+			</message>
+			<metainfo
+				stacktrace="   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at Infralution.Licensing.EvaluationDialog.ShowDialog()
+   at Ranorex.Core.ElementEngine.CheckTrial(Boolean verbose, AuthenticatedLicense nodeLockedLicense, Boolean isLimitedTrial)
+   at Ranorex.Core.ElementEngine.CheckMachineLicense(Boolean verbose, AuthenticatedLicense nodeLockedLicense, NodeLockedLicenseStatus nodeLockedStatus)
+   at Ranorex.Core.ElementEngine.CheckLicense(Boolean verbose)
+   at Ranorex.Core.ElementEngine.AssertLicense()
+   at Ranorex.Core.ElementEngine..ctor()
+   at Ranorex.Core.ElementEngine.get_Instance()
+   at Ranorex.Core.Testing.TestModuleRunner.RunStandalone(ITestModule module, String reportFilename, Boolean generateReport, String standaloneModuleName, CaseInsensitiveString guid)"
+				loglvl="Failure">
+			</metainfo>
+		</item>
+	</activity>
+</report>

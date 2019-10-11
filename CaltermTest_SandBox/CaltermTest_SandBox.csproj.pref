@@ -1,0 +1,23 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="UserAction.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="UserAction.cs" />
+    <Element value="CaltermTest_SandBoxRepository.rxrep" />
+    <Element value="Program.cs" />
+    <Element value="CaltermTest_SandBox.rxtst" />
+    <Element value="CaltermTest_SandBoxRepository.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections">
+      <Element value="CaltermTest_SandBox.UserAction.Mouse_Click_Cancel(RepoItemInfo buttonInfo)" />
+      <Element value="CaltermTest_SandBox.UserAction.Mouse_Click_Cancel(RepoItemInfo buttonInfo)" />
+      <Element value="CaltermTest_SandBox.UserAction.Key_sequence_ConfigFileRow0(RepoItemInfo cellInfo)" />
+      <Element value="CaltermTest_SandBox.UserAction.Mouse_Click_ConfigFileRow0(RepoItemInfo cellInfo)" />
+      <Element value="CaltermTest_SandBox.UserAction.Mouse_Click_Manual(RepoItemInfo buttonInfo)" />
+      <Element value="CaltermTest_SandBox.UserAction.Mouse_Click_ButtonCancel(RepoItemInfo buttonInfo)" />
+    </Array>
+  </Properties>
+</Properties>

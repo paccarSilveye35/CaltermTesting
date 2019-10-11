@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CaltermTest_SandBox</name>
+    </assembly>
+    <members>
+        <member name="T:CaltermTest_SandBox.CaltermTest_SandBoxRepository">
+            <summary>
+            The class representing the CaltermTest_SandBoxRepository element repository.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CaltermTest_SandBoxRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the CaltermTest_SandBoxRepository element repository.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepository.ModuleSelection">
+            <summary>
+            The ModuleSelection folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepository.ManualConnect">
+            <summary>
+            The ManualConnect folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepository.MsgBox">
+            <summary>
+            The MsgBox folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepository.ApplicationForm">
+            <summary>
+            The ApplicationForm folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepository.Open">
+            <summary>
+            The Open folder.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder">
+            <summary>
+            The ModuleSelectionAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ModuleSelection  folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.Manual">
+            <summary>
+            The Manual item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.ManualInfo">
+            <summary>
+            The Manual item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.ButtonCancel">
+            <summary>
+            The ButtonCancel item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.ButtonCancelInfo">
+            <summary>
+            The ButtonCancel item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.ConfigFileRow0">
+            <summary>
+            The ConfigFileRow0 item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ModuleSelectionAppFolder.ConfigFileRow0Info">
+            <summary>
+            The ConfigFileRow0 item info.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder">
+            <summary>
+            The ManualConnectAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ManualConnect  folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.BrowseForConfigFile">
+            <summary>
+            The BrowseForConfigFile item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.BrowseForConfigFileInfo">
+            <summary>
+            The BrowseForConfigFile item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.ButtonOk">
+            <summary>
+            The ButtonOk item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.ButtonOkInfo">
+            <summary>
+            The ButtonOk item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.Cancel">
+            <summary>
+            The Cancel item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ManualConnectAppFolder.CancelInfo">
+            <summary>
+            The Cancel item info.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.MsgBoxAppFolder">
+            <summary>
+            The MsgBoxAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.MsgBoxAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new MsgBox  folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.MsgBoxAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.MsgBoxAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.MsgBoxAppFolder.Close">
+            <summary>
+            The Close item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.MsgBoxAppFolder.CloseInfo">
+            <summary>
+            The Close item info.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ApplicationFormAppFolder">
+            <summary>
+            The ApplicationFormAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ApplicationFormAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ApplicationForm  folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ApplicationFormAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ApplicationFormAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ApplicationFormAppFolder.Close">
+            <summary>
+            The Close item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.ApplicationFormAppFolder.CloseInfo">
+            <summary>
+            The Close item info.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.OpenAppFolder">
+            <summary>
+            The OpenAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.OpenAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Open  folder.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.OpenAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.OpenAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.OpenAppFolder.SystemItemNameDisplay">
+            <summary>
+            The SystemItemNameDisplay item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.OpenAppFolder.SystemItemNameDisplayInfo">
+            <summary>
+            The SystemItemNameDisplay item info.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.OpenAppFolder.ButtonOpen">
+            <summary>
+            The ButtonOpen item.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CaltermTest_SandBoxRepositoryFolders.OpenAppFolder.ButtonOpenInfo">
+            <summary>
+            The ButtonOpen item info.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.CloseAUT">
+             <summary>
+            The CloseAUT recording.
+             </summary>
+        </member>
+        <member name="F:CaltermTest_SandBox.CloseAUT.repo">
+            <summary>
+            Holds an instance of the CaltermTest_SandBoxRepository repository.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CloseAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CloseAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:CaltermTest_SandBox.CloseAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.CloseAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:CaltermTest_SandBox.CloseAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.CloseAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.StartAUT">
+             <summary>
+            The StartAUT recording.
+             </summary>
+        </member>
+        <member name="F:CaltermTest_SandBox.StartAUT.repo">
+            <summary>
+            Holds an instance of the CaltermTest_SandBoxRepository repository.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.StartAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.StartAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:CaltermTest_SandBox.StartAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.StartAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:CaltermTest_SandBox.StartAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.StartAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:CaltermTest_SandBox.StartAUT.StartAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable StartAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="T:CaltermTest_SandBox.UserAction">
+            <summary>
+            Description of UserAction.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.UserAction.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:CaltermTest_SandBox.UserAction.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this module.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

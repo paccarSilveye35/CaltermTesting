@@ -1,0 +1,10 @@
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\bin\Debug\CaltermTest_SandBox.rxtmg
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\bin\Debug\CaltermTest_SandBox.rxtst
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\bin\Debug\CaltermTest_SandBox.exe.config
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\bin\Debug\CaltermTest_SandBox.xml
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\bin\Debug\CaltermTest_SandBox.exe
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\bin\Debug\CaltermTest_SandBox.pdb
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\obj\x86\Debug\CaltermTest_SandBox.csprojResolveAssemblyReference.cache
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\obj\x86\Debug\CaltermTest_SandBox.exe
+C:\Users\Edgar.Silveyra\Documents\Ranorex\RanorexStudio Projects\CaltermTest_SandBox\CaltermTest_SandBox\obj\x86\Debug\CaltermTest_SandBox.pdb
